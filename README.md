@@ -16,7 +16,7 @@
 And now you can send IMAGE to Your bot!
 
 
-<img src="/docs/imgs/example_1.jpg" width="200" />
+<img src="/docs/imgs/example_1.jpg" width="800" />
 
 
 In terminal of Image Recognition server you can see the logs:
